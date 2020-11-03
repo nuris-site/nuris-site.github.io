@@ -1,0 +1,344 @@
+{
+    padding: 0;
+    margin: 0;
+}
+section {
+    height: 100vh;
+}
+
+.header {
+    padding-top: 44px;
+    background: url(https://wallpaperaccess.com/full/1393354.png) center center no-repeat;
+    
+}
+.menu {
+    display: flex;
+    justify-content: center;
+    margin-bottom: -50px;
+
+    
+    
+}
+
+.menu a {
+    margin-right: 70px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    letter-spacing: 2.8px;
+}
+.menu a:last-child {
+    margin-right: 0;
+}
+
+.header-text {
+    text-align: center;
+    margin-top: 150px;
+}
+
+.header-text h1{
+     color: white;
+     font-size: 70px;
+     font-weight: 700;
+}
+ .header p {
+     color: white;
+     font-size: 30px;
+     letter-spacing: 4.2px;
+ }
+
+
+ .header button {
+     margin-left: -100px;
+     cursor: pointer;
+     color: black;
+     margin-top: 22px;
+     padding: 20px 80px;
+     background-color: transparent;
+     border: solid black;
+     font-size: 18px;
+     text-transform: uppercase;
+     letter-spacing: 2.52px;
+     transition: ease-in .25s all;
+ }
+
+ .header button:hover {
+     background-color: black;
+     color: white;
+ }
+
+ .about {
+     display: flex;
+     justify-content: right;
+     flex-wrap: wrap;
+     align-items: center;
+     padding-left: 80px;
+
+
+     
+     
+ }
+.about-img {
+    margin-left: 750px;
+    margin-top: -500px;
+
+ }
+
+ .text1{
+     color: #5b5b5c;
+     font-size: 23px;
+ }
+ .text2 {
+     color: #5b5b5c;
+    font-size: 23px;
+}
+.zagolovok1 {
+    color: #000000;
+    font-size: 35px;
+}
+
+.textt1 {
+    color: #000000;
+    font-size: 38px;
+}
+
+.textt2 {
+    color: #5b5b5c;
+    font-size: 23px;
+}
+
+.one {
+    margin-right: 34px;
+    margin-bottom: 25px;
+    height: 550px;
+    width: 550px;
+}
+
+.two {
+    height: 550px;
+    width: 550px;
+}
+
+.three {
+    margin-right: 40px;
+    margin-bottom: 25px;
+    height: 550px;
+    width: 550px;
+}
+
+
+.five {
+    height: 550px;
+    width: 550px;
+}
+
+.six {
+    margin-bottom: 25px;
+    margin-right: 34px;
+    height: 550px;
+    width: 550px;
+}
+
+.seven {
+    height: 550px;
+    width: 570px;
+}
+
+
+
+.about-text span {
+    color: #c4c4c4;
+    font-size: 22px;
+    font-weight: 500;
+    letter-spacing: 3.88px;
+}
+
+.about-text h2 {
+    color: black;
+    font-size: 30px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 4.2px;
+}
+
+.photos {
+    margin-bottom: 50px;
+}
+
+.photos-text {
+    margin-left: 105px;
+    text-align: left;
+    margin-bottom: -50px;
+}
+
+.photos-wrap {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 90px;
+
+}
+
+.company {
+    margin-bottom: 450px;
+    margin-top: 250px;
+}
+
+.company-text{
+    text-align: center;
+}
+
+.company-text {
+    margin-top: 1250px;
+}
+
+.company-text h2 {
+    color: #000000;
+    font-size: 32px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 7.3px;
+}
+
+.company-text p {
+    color: #5b5b5c;
+    font-size: 28px;
+    font-weight: 500;
+    letter-spacing: 2px;
+}
+
+.company-wrap {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: -700px;
+}
+
+.company-block img {
+   height: 350px;
+   width: 550px;
+}
+
+.company-blockk img  {
+    height: 350px;
+    width: 550px;
+}
+
+.company-block h3 {
+    margin-top: 66px;
+    color: #000000;
+
+}
+.company-block p {
+    margin-top: 55px;
+    margin-bottom: 80px;
+    color: #5b5b5c;
+    letter-spacing: 2px;
+}
+
+.company-blockk p {
+    margin-top: 55px;
+    margin-bottom: 80px;
+    color: #5b5b5c;
+    letter-spacing: 2px;
+}
+.company-blockk h3 {
+    margin-top: 66px;
+    color: #000000;
+}
+
+.company-block1 {
+    margin-right: 34px;
+}
+
+.company-block button {
+    cursor: pointer;
+    padding: 10px 33px;
+    border: none;
+    color: #000000;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 41px;
+    text-transform: uppercase;
+    letter-spacing: 3.2px;
+}
+
+.company-blockk button {
+    cursor: pointer;
+    padding: 10px 33px;
+    border: none;
+    color: #000000;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 41px;
+    text-transform: uppercase;
+    letter-spacing: 3.2px;
+    transition: .25s;
+}
+.company-blockk button:hover {
+    background-color: #ccc;
+}
+
+.about-images img {
+height: 550px;
+width: 580px;
+}
+
+.about-images {
+    margin-left: 600px;
+    margin-top: -550px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.send {
+    background-color: #f4f4f4;
+    margin-left: 500px;
+}
+
+.send-text {
+   margin-right: 111px;
+}
+
+.send-text h2 {
+    color: #000000;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 41px;
+    text-transform: uppercase;
+    letter-spacing: 4.2px;
+}
+
+
+input {
+    background: transparent;
+    border: 2px solid #7a7a7a;
+    padding: 28px 25px;
+    color: #3a4047;
+    font-size: 22px;
+    font-weight: 400;
+    letter-spacing: 3.08px;
+}
+
+form button {
+    margin-left: 450px;
+    margin-bottom: 50px;
+    cursor: pointer;
+    padding: 27px 87px;
+    background-color: #3a4047;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 3.88px;
+    transition: ease-in-out .25s;
+}
+
+form button:hover {
+    background-color: #fff;
+    color: #000;
+    border: solid #000;
+}
+
+
